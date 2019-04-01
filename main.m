@@ -1,5 +1,7 @@
+
+%this is khaled edit
 clear
-clc
+
 global l
 global r
 global u
